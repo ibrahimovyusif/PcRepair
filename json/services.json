@@ -1,0 +1,22 @@
+[
+  {
+  	"name": "Hardware Repair",
+  	"description": "This is the description",
+  	"price_range":"$100- $200"
+  },
+  {
+  	"name": "Virus Removal",
+  	"description": "This is the Virus Removal",
+  	"price_range":"$100- $150"
+  },
+  {
+  	"name": "Pc Tune Up",
+  	"description": "This is the PC Tune Up",
+  	"price_range":"$75- $100"
+  },
+  {
+  	"name": "Network Services",
+  	"description": "This is the PC Tune Up",
+  	"price_range":"$500-1000"
+  }
+]
